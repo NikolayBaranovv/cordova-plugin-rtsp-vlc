@@ -3,6 +3,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.disono.libVLC-Player:libvlc:1.0'
-    implementation 'com.github.disono.libVLC-Player:disonoVLC:1.0'
+    implementation 'com.github.NikolayBaranovv.libVLC-Player:libvlc:1.0'
+    implementation 'com.github.NikolayBaranovv.libVLC-Player:disonoVLC:1.0'
 }
